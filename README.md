@@ -1,6 +1,6 @@
 # divJSON
-#This library I created to get a lot of content from some websites, quickly.
-#It receives html code as input and returns JSON array of html elements that are in selected div or in another element.
+  This library I created to get a lot of content from some websites, quickly.
+  It receives html code as input and returns JSON array of html elements that are in selected div or in another element.
 
 
 ```javascript
